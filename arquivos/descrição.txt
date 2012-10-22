@@ -1,0 +1,21 @@
+O formato de entrada é
+
+n_items
+1 valor_1 peso_1
+2 valor_2 peso_2
+....
+n valor_n peso_n
+capacidade
+
+
+O formato de saída deve ser
+
+n_items
+1 valor_1 peso_1
+2 valor_2 peso_2
+....
+n valor_n peso_n
+capacidade
+algoritmo (guloso/PD/Back/BB)
+solução (vetor de n 0/1s)
+#nós expandidos (para Back/BB)
